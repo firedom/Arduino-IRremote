@@ -84,7 +84,11 @@ int  IRrecv::decode (decode_results *results)
 	DBG_PRINTLN("Attempting Lego Power Functions");
 	if (decodeLegoPowerFunctions(results))  return true ;
 #endif
-
+#ifdef DECODE_HAIER
+    DBG_PRINTLN("Attempting Haier decode");
+    if (decodeHaier(results))  return true ;
+#endif
+    
 	// decodeHash returns a hash on any input.
 	// Thus, it needs to be last in the list.
 	// If you add any decodes, add them before this.

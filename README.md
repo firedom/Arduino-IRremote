@@ -13,8 +13,9 @@ Tutorials and more information will be made available on [the official homepage]
 [IRremote Arduino Library](http://z3t0.github.io/Arduino-IRremote/)  
 
 ## f.1 - 2016/09/03
--Added Haier Air-condition(KFR-35G) support. - Dump code only, can not ctrl now.
-
+- Added Haier Air-condition(KFR-35G) support. - Dump code only, can not ctrl now.  
+- modify recvPin = 11 -> A0 in example IRrecvDumpV2.  
+- Added HAIER case.
 ## Version - 2.2.1
 
 ## Installation
