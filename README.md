@@ -8,6 +8,13 @@ This library enables you to send and receive using infra-red signals on an Ardui
 
 Tutorials and more information will be made available on [the official homepage](http://z3t0.github.io/Arduino-IRremote/).
 
+## forked from 
+(github)[https://github.com/z3t0/Arduino-IRremote]  
+(IRremote Arduino Library)[http://z3t0.github.io/Arduino-IRremote/]  
+
+## f.1 - 2016/09/03
+-Added Haier Air-condition(KFR-35G) support. - Dump code only, can not ctrl now.
+
 ## Version - 2.2.1
 
 ## Installation
