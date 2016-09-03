@@ -1,3 +1,10 @@
+## forked from 
+(github)[https://github.com/z3t0/Arduino-IRremote]  
+(IRremote Arduino Library)[http://z3t0.github.io/Arduino-IRremote/]  
+
+## f.1 - 2016/09/03
+-Added Haier Air-condition(KFR-35G) support. - Dump code only, can not ctrl now.
+
 ## 2.2.1 - 2016/07/27
 - Added tests for Lego Power Functions Protocol [PR #336](https://github.com/z3t0/Arduino-IRremote/pull/336)
 
